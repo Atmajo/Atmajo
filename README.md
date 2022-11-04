@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atmajo
-- 👀 I’m interested in Web Development | Pentesting
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Pentesting
 - 😎 I'm polishing my skills on JavaScript
 

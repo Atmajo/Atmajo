@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Atmajo Chowdhury and I'm a B.Tech Undergrad, from Uemk</h2>
+<h2 align="left">Hi 👋! My name is Atmajo Chowdhury and I'm a Undergrad</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="" />
 
 ###
 

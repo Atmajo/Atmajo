@@ -1,5 +1,5 @@
 <p align=”center”>
-  <img src=”https://github.com/keploy/devrel-program/assets/39727009/cb0b8911-2509-4bc7-9def-186cf1784983" alt=”my banner”/>
+  <img src=”linkedin.png" alt=”my banner”/>
 </p>
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
